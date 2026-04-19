@@ -2,8 +2,6 @@
 
 A modern, responsive web application designed to connect passionate volunteers with impactful NGO events and opportunities. Built with React and Vite, this platform serves as a bridge between individuals looking to make a difference and organizations in need of support.
 
-![NGO App Preview](https://images.unsplash.com/photo-1559027615-cd9d7a915490?auto=format&fit=crop&q=80&w=2000)
-
 ## 🌟 Features
 
 - **Dynamic Event Discovery**: Real-time fetching of volunteering opportunities from the Volunteer Connector API.
